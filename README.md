@@ -1,5 +1,4 @@
-# ecommerce-mobile
-A sample application with login and signup page. once enter into the application able to see the products list.
+# ecommerce_mobile
 
 Ecommerce Mobile App
 --------------------------
@@ -28,13 +27,4 @@ Logics
    and displaying the discounted price using the discount percentage for each product; otherwise,
    displaying the original price.
 5. Validations : validation and error handling code added.
-
-Screen shots :
----------------
-(https://github.com/user-attachments/assets/bedd8054-8262-4701-a532-b5f957594a4b)
-(https://github.com/user-attachments/assets/7db12a7d-2a60-492c-8044-d74bc20d5145)
-(https://github.com/user-attachments/assets/4474cca5-2026-4606-a415-3d11c777d330)
-
-
-
 

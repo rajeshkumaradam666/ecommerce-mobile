@@ -3,6 +3,7 @@
 Ecommerce Mobile App
 --------------------------
 sample login credentials :
+------------------------
 Email - rajesh@gmail.com
 Password - 123456
 --------------------------
@@ -12,10 +13,10 @@ Dart : 2.17.1
 
 Screens :
 ----------
-Splash Screen
-Login Screen
-Signup Screen
-Product Details Screen
+1. Splash screen
+2. Login Screen
+3. Signup Screen
+4. Products list Screen
 --------------------
 Logics
 -------
@@ -27,4 +28,12 @@ Logics
    and displaying the discounted price using the discount percentage for each product; otherwise,
    displaying the original price.
 5. Validations : validation and error handling code added.
+
+Screen shots :
+--------------
+![Screenshot_2024-08-14-16-24-44-045_com example ecommerce_mobile](https://github.com/user-attachments/assets/324dd07c-308b-47d7-9799-16b97abee7a1)
+![Screenshot_2024-08-14-16-24-34-786_com example ecommerce_mobile](https://github.com/user-attachments/assets/bb6a4d2d-e83b-43e1-af35-f0b354cbc993)
+
+![Screenshot_2024-08-14-16-24-49-571_com example ecommerce_mobile](https://github.com/user-attachments/assets/8b41cfcd-9590-43ee-820e-2cad9460da16)
+
 
